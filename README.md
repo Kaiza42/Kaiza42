@@ -1,7 +1,7 @@
 # En travaux Ouais.
 ## De gros travaux.
 ### De vrai gros travaux.
-#### Genre sur le principe faut pas reguarder sa...
+#### Genre sur le principe faut pas regarder sa...
 
 
 <!--
