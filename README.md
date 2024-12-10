@@ -6,12 +6,6 @@
 ce que j'apprends :                
 <img src="logo.png" alt="" height="33px" width="33px">
 
-
-
-
-
-
-
 - Ce que j'ai appris : 
 <div>
  <img src="LogoReact.png" alt="" height="33px" width="33px">
