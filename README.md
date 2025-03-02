@@ -1,12 +1,13 @@
 
-About Me
-👋 Hello! I am a passionate developer with a strong interest in video game creation. I enjoy exploring how games are built, which led me to work with technologies like Unity and Godot to create engaging games.
+## About Me
 
-🎮 My main goal is to develop immersive and fun games. However, I don’t limit myself to game development. I also enjoy working on other development projects, such as interactive websites with HTML, CSS, and JavaScript.
+ ### 👋 Hello! I am a passionate developer with a strong interest in video game creation. I enjoy exploring how games are built, which led me to work with technologies like Unity and Godot to create engaging games.
 
-💻 I am open to various types of projects and appreciate diversity in software development. Whether it's in the game industry or elsewhere, I am always eager to learn new things and improve my skills.
+### 🎮 My main goal is to develop immersive and fun games. However, I don’t limit myself to game development. I also enjoy working on other development projects, such as interactive websites with HTML, CSS, and JavaScript.
 
-📬 If you'd like to collaborate, discuss a project, or exchange ideas, feel free to contact me:
+### 💻 I am open to various types of projects and appreciate diversity in software development. Whether it's in the game industry or elsewhere, I am always eager to learn new things and improve my skills.
+
+### 📬 If you'd like to collaborate, discuss a project, or exchange ideas, feel free to contact me:
 
 Email : [Contact](Emerick.Roeting1@gmail.com)
 
