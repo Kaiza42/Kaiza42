@@ -9,9 +9,11 @@
 
 ### 📬 If you'd like to collaborate, discuss a project, or exchange ideas, feel free to contact me:
 
-Email : [Contact](Emerick.Roeting1@gmail.com)
+Email : [Send me an email](mailto:Emerick.Roeting1@gmail.com)
 
-LinkedIn : [Texte du lien](https://www.linkedin.com/in/emerick-roeting-514b67329/)
+LinkedIn : [Connect with me on LinkedIn](https://www.linkedin.com/in/emerick-roeting-514b67329/)
+
+
 
 
 
