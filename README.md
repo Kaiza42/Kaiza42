@@ -37,4 +37,4 @@ LinkedIn : [Connect with me on LinkedIn](https://www.linkedin.com/in/emerick-roe
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Kaiza42&show_icons=true&theme=radical)](https://github.com/Kaiza42)
 
 ## Codewars Profile
-![Codewars](https://github.r2v.ch/codewars?user=Kaiza42&stroke=%252,3,111)
+![Codewars](https://www.codewars.com/users/Emerick.R/badges/large)
